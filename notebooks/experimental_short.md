@@ -2311,8 +2311,7 @@ rlMj5UrSkUJYhLNJYKR+T8qUwuNvk8CE58vhbNhX2sQPpI4+6VDWrutUkjxf6i6G9yabrlNpsFBe
 kjIF+86ZTF7q6A8THpuOezD40vzQYOy2PYP1edKRfBi7TUqDsWc8KW9Z7AU/7Bu783Zdp8aExeaO
 /vBlok3XqTHhC6EjhfC42ybnDeaoFsZ++Jg8z7b+cShHLfhhYcgWpSDsG7vy4TVrk+NyVMtiz3p2
 5qiBCV8825ijBsfmqJbVbTqrIAAAAChJREFU8IYGc2VK4cshm/hBeL50ZsP+xiZD+fWhfruewaTj
-c9SxxP5/snJ2WkSHyN0AAAAASUVORK5CYII=
-" />
+c9SxxP5/snJ2WkSHyN0AAAAASUVORK5CYII="/>
 
 Methylierung ist meistens mit einer Herunterregulierung der Expression benachbarter Gene assoziiert. Dies ist im Allgemeinen darauf zurückzuführen, dass CpGs in Promotorregionen methyliert werden und die Methylgruppen das Binden von Transkriptionsfaktoren verhindern.
 
