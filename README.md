@@ -18,9 +18,10 @@ Currently this website and the included content are in active developement and w
 ## Jupyter Notebooks
 
 # Wetlab Part 2 (following dna extraction)
-[explanatory_notebook](./notebooks/experimental_short.pdf)
+[explanatory_notebook pdf](./notebooks/experimental_short.pdf)
 
-[explanatory_notebook2](./notebooks/experimental_short.md)
+[explanatory_notebook markdown](./notebooks/experimental_short.md)
 
 # Methylation data analysis workflow in R
-[analysis_notebook](./notebooks/illumina_epicv2.ipynb)
+[analysis_notebook pdf](./notebooks/illumina_epicv2.pdf)
+[analysis_notebook markdown](./notebooks/illumina_epicv2_md/illumina_epicv2.md)
