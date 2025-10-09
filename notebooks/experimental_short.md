@@ -39897,5 +39897,3 @@ ijVIKh/Xasd51KD/ADTze80I7f4SAAAAAElFTkSuQmCC
 - Sonde (eng. Probe) - einzelsträngiges DNA Fragment, das auf einem Microarray befestigt ist und dazu dient, mit einer komplementären DNA aus einer Probe zu binden
 - Singular value decomposition (SVD) - 
 - Zentrifugation - Mechanische Separation von Stoffgemischen anhand ihrer Dichte durch hohe Zentrifugalkräfte (typischerweise in einer Zentrifuge)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1IFKIe4Fga4?si=_XwMRQYLr9lJAgAF"></iframe>
