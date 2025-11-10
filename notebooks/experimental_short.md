@@ -6656,7 +6656,7 @@ GH9aR2qPYn+B+7yO9pzXcRm7TZkcrE+31okir2NmYF4nDjn5StA6Rkfjq2WRk3e8BsZZ6xT9ZSo2
 
 
 
-Die Zellen, aus denen die DNA extrahiert wird, werden im Labor bei optimalen Bedingungen aufbewahrt. Dadurch wird sichergestellt, dass vor der Extraktion der DNA ausreichend Zellen vorhanden sind und die Zellen möglichst unbbeinflusst von Stressoren sind, die Einfluss auf die Methylierung haben könnten.
+Die Zellen, aus denen die DNA extrahiert wird, werden im Labor bei optimalen Bedingungen aufbewahrt. Dadurch wird sichergestellt, dass vor der Extraktion der DNA ausreichend Zellen vorhanden sind und die Zellen möglichst unbeinflusst von Stressoren sind, die Einfluss auf die Methylierung haben könnten.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/53bKR2kWJI0?si=t6zZkPtgTbjnazBZ" title="Zellkultur" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -39861,41 +39861,41 @@ ijVIKh/Xasd51KD/ADTze80I7f4SAAAAAElFTkSuQmCC
 " >
 
 ### Glossar
-- Amplifikation - Vermehrung von DNA, häufig durch PCR
-- BeadChip - Chip für Methylierungsanalysen, der mehrere Microarrays enthält
-- Beta-Wert - Wert, der die relative Methylierung eines CpGs angibt
-- CpG - CG Dinukleotid, dessen Methylierung von Interesse sein kann
-- Differentially methylated probe (DMP) - Sonde, deren Methylierung sich zwischen zwei Zuständen signifikant unterscheidet
-- DMR - Menge nahe zusammenliegender Sonden, deren Methylierung sich zwischen zwei Zuständen signifikant unterscheidet
-- Enzym - Protein oder RNA mit katalytischer Funktion zur Umsetzung eines Substrats (bsp. Restriktionsenzym -> Zerschneiden von DNA)
-- Eppendorf-Gefäß (Eppi) - Reaktionsgefäß für Versuche im Labor
-- Fluoreszenzsignal - Lichtsignal, das von Fluoreszenzfarbstoffen abgegeben wird, wenn sie angeregt werden
-- Fragmentierung - Zerschneiden/Zerbrechen eines DNA Moleküls in mehrere kleine Fragmente
-- Genomische Region - Spezifische Region der DNA im Genom (der Gesamtheit der DNA im Zellkern einer Zelle)
-- Hybridisieren - Verfahren, bei dem zwei komplementäre einzelsträngige DNA oder RNA Moleküle sich zu einem Doppelstrang verbinden
-- Isotonisch
-- Komplementär - In Bezug auf DNA eine einzelsträngige DNA, die sich aufgrund ihrer Basenfolge mit einer weiteren einzelsträngigen DNA zu einem Doppelstrang verbinden kann
-- M-Wert - Logarithmus des Verhältnisses von methyliertem Signal zu unmethyliertem Signal (alternativ zum Beta-Wert)
-- Multidimensional Scaling (MDS) - Methode zur Dimensionsreduktion, bei der die paarweisen Distanzen zwischen Punkten erhalten bleibt
-- Methylierung - Epigenetische Modifikation, bei der eine Methylgruppe an einem Cytosin angebracht wird
-- Methylierungslevel - Relative Häufigkeit der Methylierung eines bestimmten CpGs in einer Probe (Menge von Zellen)
-- Microarray - Chip mit Spots für unterschiedliche DNA Sequenzen, mit dem das Vorkommen der Sequenzen in einer Probe quantitativ bestimmt werden kann
-- Polymerase-Kettenreaktion (PCR) - Experimentelles Verfahren zur Vermehrung zuvor selektierter DNA Sequenzen
-- Pipeline - Abfolge von Bearbeitungsschritten von Daten mit verschiedenen Tools, um einen bestimmten Output aus den Daten zu erhalten
-- Polymerase - Enzym, dass die Aneinanderkettung von Nukleinsäuren anhand einer Vorlage katalysiert
-- Pool_ID - Zuordnung zu einer experimentellen Batch (z.B. Auftrennung nach Person oder Tag)
-- Probe (eng. Sample) - Menge von Zellen (beispielsweise einer Zellinie oder eines Gewebes), die zusammen experimentell verarbeitet werden
-- Puffer - Stoffgemisch, dass den pH-Wert einer Lösung möglichst konstant hält
-- Sample_Group - Gruppe/Zustand, der eine Probe zugeordnet wird (z.B. Tumor/Gesund)
-- Sample_Name - Einzigartiger Name einer Probe (benötigt)
-- Sample_Plate - (optional)
-- Sample_Well - (optional)
-- Sentrix_ID - einzigartige ID für jeden Infinium Methylation BeadChip (benötigt)
-- Sentrix_Position - Position der Probe auf dem Beadchip (benötigt)
-- Signalstärke (Bezug auf Fluoreszenz) - Menge des gemessenen Lichtsignals eines Spots auf einem Microarray eines Beadchips 
-- Sonde (eng. Probe) - einzelsträngiges DNA Fragment, das auf einem Microarray befestigt ist und dazu dient, mit einer komplementären DNA aus einer Probe zu binden
-- Singular value decomposition (SVD) - 
-- Zentrifugation - Mechanische Separation von Stoffgemischen anhand ihrer Dichte durch hohe Zentrifugalkräfte (typischerweise in einer Zentrifuge)
+- **Amplifikation** - Vermehrung von DNA, häufig durch PCR
+- **BeadChip** - Chip für Methylierungsanalysen, der mehrere Microarrays enthält
+- **Beta-Wert** - Wert, der die relative Methylierung eines CpGs angibt
+- **CpG** - CG Dinukleotid, dessen Methylierung von Interesse sein kann
+- **Differentially methylated probe (DMP)** - Sonde, deren Methylierung sich zwischen zwei Zuständen signifikant unterscheidet
+- **Differentially methylated region (DMR)** - Menge nahe zusammenliegender Sonden, deren Methylierung sich zwischen zwei Zuständen signifikant unterscheidet
+- **Enzym** - Protein oder RNA mit katalytischer Funktion zur Umsetzung eines Substrats (bsp. Restriktionsenzym -> Zerschneiden von DNA)
+- **Eppendorf-Gefäß (Eppi)** - Reaktionsgefäß für Versuche im Labor
+- **Fluoreszenzsignal** - Lichtsignal, das von Fluoreszenzfarbstoffen abgegeben wird, wenn sie angeregt werden
+- **Fragmentierung** - Zerschneiden/Zerbrechen eines DNA Moleküls in mehrere kleine Fragmente
+- **Genomische Region** - Spezifische Region der DNA im Genom (der Gesamtheit der DNA im Zellkern einer Zelle)
+- **Hybridisieren** - Verfahren, bei dem zwei komplementäre einzelsträngige DNA oder RNA Moleküle sich zu einem Doppelstrang verbinden
+- **Isotonisch**
+- **Komplementär** - In Bezug auf DNA eine einzelsträngige DNA, die sich aufgrund ihrer Basenfolge mit einer weiteren einzelsträngigen DNA zu einem Doppelstrang verbinden kann
+- **M-Wert** - Logarithmus des Verhältnisses von methyliertem Signal zu unmethyliertem Signal (alternativ zum Beta-Wert)
+- **Multidimensional Scaling (MDS)** - Methode zur Dimensionsreduktion, bei der die paarweisen Distanzen zwischen Punkten erhalten bleibt
+- **Methylierung** - Epigenetische Modifikation, bei der eine Methylgruppe an einem Cytosin angebracht wird
+- **Methylierungslevel** - Relative Häufigkeit der Methylierung eines bestimmten CpGs in einer Probe (Menge von Zellen)
+- **Microarray** - Chip mit Spots für unterschiedliche DNA Sequenzen, mit dem das Vorkommen der Sequenzen in einer Probe quantitativ bestimmt werden kann
+- **Polymerase-Kettenreaktion (PCR)** - Experimentelles Verfahren zur Vermehrung zuvor selektierter DNA Sequenzen
+- **Pipeline** - Abfolge von Bearbeitungsschritten von Daten mit verschiedenen Tools, um einen bestimmten Output aus den Daten zu erhalten
+- **Polymerase** - Enzym, dass die Aneinanderkettung von Nukleinsäuren anhand einer Vorlage katalysiert
+- **Pool_ID** - Zuordnung zu einer experimentellen Batch (z.B. Auftrennung nach Person oder Tag)
+- **Probe (eng. Sample)** - Menge von Zellen (beispielsweise einer Zellinie oder eines Gewebes), die zusammen experimentell verarbeitet werden
+- **Puffer** - Stoffgemisch, dass den pH-Wert einer Lösung möglichst konstant hält
+- **Sample_Group** - Gruppe/Zustand, der eine Probe zugeordnet wird (z.B. Tumor/Gesund)
+- **Sample_Name** - Einzigartiger Name einer Probe (benötigt)
+- **Sample_Plate** - (optional)
+- **Sample_Well** - (optional)
+- **Sentrix_ID** - einzigartige ID für jeden Infinium Methylation BeadChip (benötigt)
+- **Sentrix_Position** - Position der Probe auf dem Beadchip (benötigt)
+- **Signalstärke (Bezug auf Fluoreszenz)** - Menge des gemessenen Lichtsignals eines Spots auf einem Microarray eines Beadchips 
+- **Sonde (eng. Probe)** - einzelsträngiges DNA Fragment, das auf einem Microarray befestigt ist und dazu dient, mit einer komplementären DNA aus einer Probe zu binden
+- **Singular value decomposition (SVD)** - 
+- **Zentrifugation** - Mechanische Separation von Stoffgemischen anhand ihrer Dichte durch hohe Zentrifugalkräfte (typischerweise in einer Zentrifuge)
 
 ### Fragen
 In der unteren Codezeile seht ihr einen Aufruf, um HTML in das Notebook einzubetten. Dabei handelt es sich um eine R-Shiny App, in der ihr Fragen zum gelernten beantworten sollte. Das dient in erster Linie nicht dazu, euch zu "testen", sondern ist für uns wichtig, um zu verstehen, was verstanden wurde und was nicht.
