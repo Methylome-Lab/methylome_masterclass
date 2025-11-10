@@ -3605,6 +3605,7 @@ mset <- preprocessRaw(rgset)
     Lade nötiges Paket: IlluminaHumanMethylationEPICv2manifest
     
 
+#### Peak-based correction normalization (PBC)
 
 
 ```R
@@ -3707,6 +3708,7 @@ champ.QC(beta = myNormPBC, pheno = myLoad$pd$Sample_Group, resultsDir = "./CHAMP
 ![png](output_12_7.png)
     
 
+#### Beta-mixture quantile normalization (BMIQ)
 
 
 ```R
@@ -3793,6 +3795,7 @@ champ.QC(beta = myNormBMIQ, pheno=myLoad$pd$Sample_Group, resultsDir="./CHAMP_QC
 ![png](output_13_5.png)
     
 
+#### Subset-quantiles within microarray normalization (SWAN)
 
 
 ```R
