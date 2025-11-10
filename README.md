@@ -7,22 +7,19 @@ Currently this website and the included content are in active developement and w
 ## Explanatory Videos (the images link to YouTube)
 
 # Introduction
-<iframe width="600" height="450" src="https://www.youtube.com/watch?v=pL5ULAdViNg" title="Introduction" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="600" height="450" src="https://www.youtube.com/watch?v=7ZjCiv3Ci98" title="Introduction d" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="450" src="https://www.youtube.com/embed/pL5ULAdViNg?si=dXuwyYSETqeqU1I-" title="Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Cell culture
-<iframe width="600" height="450" src="https://www.youtube.com/watch?v=53bKR2kWJI0" title="Cell culture" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="600" height="450" src="https://www.youtube.com/watch?v=vncJTRz_ym0" title="Cell culture d" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="450" src="https://www.youtube.com/embed/53bKR2kWJI0?si=JWalOnGwiS9k0oan" title="Cell Culture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # DNA extraction
-<iframe width="600" height="450" src="https://www.youtube.com/watch?v=ClW9PbVJoeQ" title="DNA extraction" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="600" height="450" src="https://www.youtube.com/watch?v=1IFKIe4Fga4" title="DNA extraction d" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="450" src="https://www.youtube.com/embed/ClW9PbVJoeQ?si=YP74ndtjjG78JlU1" title="DNA Extraction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Introduction to Illumina Methylation Microarrays (from Illumina)
-<iframe width="600" height="450" src="https://www.youtube.com/embed/SQpvGKqGUEU?si=BWWmaos5MUtv05Ib" title="Introduction to Illumina Methylation Microarrays (from Illumina)" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SQpvGKqGUEU?si=V7Zkz09kszPTkRca" title="Introduction to Illumina Methylation Microarrays (from Illumina)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Jupyter Notebooks
 
