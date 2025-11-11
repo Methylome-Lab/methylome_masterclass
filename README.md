@@ -4,23 +4,6 @@ This Website contains content created for the [methylome masterclass project](ht
 
 Currently this website and the included content are in active developement and we plan to provide easy ways to execute the analysis workflow on your local machine. Currently, this is only possible if you run a docker container. To get access to the container, reach out to [us](mailto:niklas.philipp@mni.thm.de)
 
-## Explanatory Videos (the images link to YouTube)
-
-# Introduction
-
-<iframe width="600" height="450" src="https://www.youtube.com/embed/pL5ULAdViNg?si=dXuwyYSETqeqU1I-" title="Introduction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-# Cell culture
-
-<iframe width="600" height="450" src="https://www.youtube.com/embed/53bKR2kWJI0?si=JWalOnGwiS9k0oan" title="Cell Culture" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-# DNA extraction
-
-<iframe width="600" height="450" src="https://www.youtube.com/embed/ClW9PbVJoeQ?si=YP74ndtjjG78JlU1" title="DNA Extraction" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-# Introduction to Illumina Methylation Microarrays (from Illumina)
-<iframe width="600" height="450" src="https://www.youtube.com/embed/SQpvGKqGUEU?si=V7Zkz09kszPTkRca" title="Introduction to Illumina Methylation Microarrays (from Illumina)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ## Jupyter Notebooks
 
 # Wetlab Part 2 (following DNA extraction)
