@@ -11,3 +11,6 @@ Currently this website and the included content are in active developement and w
 
 # Methylation data analysis workflow in R
 [Jupyter Notebook (Noninteractive)](./notebooks/illumina_epicv2/illumina_epicv2.md)
+
+# Non-optimal datasets
+[Jupyter Notebook (Noninteractive)](./notebooks/problematic_data/problematic_data.md)
