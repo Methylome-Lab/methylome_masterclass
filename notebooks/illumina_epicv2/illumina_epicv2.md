@@ -11,7 +11,7 @@ Die hier durchgeführten Schritte umfassen:
 3) Überprüfung auf und Entfernen von Batch-Effekten
 4) Vergleich der Methylierung zwischen Zellproben
 
-Eine Führund durch dieses Notebook als Video findet ihr hier:
+Eine Führung durch dieses Notebook als Video findet ihr hier:
 - Part 1: 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KfVLBO5whe8?si=fyjn3PczuNNb_sSl" title="Analysis Part One" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
