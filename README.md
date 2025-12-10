@@ -6,11 +6,11 @@ Currently this website and the included content are in active developement and w
 
 ## Jupyter Notebooks
 
-# Wetlab Part 2 (following DNA extraction)
+### Wetlab Part 2 (following DNA extraction)
 [Jupyter Notebook (Noninteractive)](./notebooks/experimental_short.md)
 
-# Methylation data analysis workflow in R
+### Methylation data analysis workflow in R
 [Jupyter Notebook (Noninteractive)](./notebooks/illumina_epicv2/illumina_epicv2.md)
 
-# Non-optimal datasets
+### Non-optimal datasets
 [Jupyter Notebook (Noninteractive)](./notebooks/problematic_data/problematic_data.md)
