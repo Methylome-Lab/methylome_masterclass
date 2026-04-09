@@ -1,0 +1,13 @@
+[Header],,,,,,
+Source,https://emea.support.illumina.com/downloads/infinium-methylationepic-demo-datasets.html,,,,,
+Investigator Name,Steven Gruber,,,,,
+Project Name,Demo_EPIC-8v2-0_A1,,,,,
+Experiment Name,Demo_EPIC-8v2-0_A1,,,,,
+Date,11/7/2022,,,,,
+,,,,,,
+[Data],,,,,,
+Sample_Name,Sample_Well,Sample_Plate,Sample_Group,Pool_ID,Sentrix_ID,Sentrix_Position
+HeLa,,,HeLa,,206891110001,R01C01
+Raji,,,Raji,,206891110001,R07C01
+HeLa_2,,,HeLa,,206891110001,R01C01
+Raji_2,,,Raji,,206891110001,R07C01
